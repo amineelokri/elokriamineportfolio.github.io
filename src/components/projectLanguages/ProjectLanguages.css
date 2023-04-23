@@ -9,9 +9,13 @@
 
 .software-skill-inline-languages {
   display: inline-block;
+
   margin-right: 20px;
   margin-bottom: 0px;
   font-family: "Google Sans Regular";
+}
+.iconify {
+  max-width: 4em;
 }
 
 @media (max-width: 768px) {
